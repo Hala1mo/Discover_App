@@ -1,4 +1,4 @@
-# discover_app_udemy
+# discover app udemy
 
 A new Flutter project.
 
